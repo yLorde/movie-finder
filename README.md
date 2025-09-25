@@ -33,7 +33,7 @@ background.
 
     ``` bash
     git clone https://github.com/ylorde/movie-finder.git
-    cd movie-scraper
+    cd movie-finder
     ```
 
 2.  Instale as dependências:
